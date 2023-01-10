@@ -1,2 +1,2 @@
 # Alura-MIDI
-Projeto desenvolvido durante a formação JavaScript para Web da Alura
+Projeto desenvolvido durante a formação JavaScript para Front-end da Alura
